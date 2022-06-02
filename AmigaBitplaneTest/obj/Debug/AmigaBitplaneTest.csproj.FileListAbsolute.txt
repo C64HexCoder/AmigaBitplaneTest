@@ -1,0 +1,14 @@
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\bin\Debug\AmigaBitplaneTest.exe.config
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\bin\Debug\AmigaBitplaneTest.exe
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\bin\Debug\AmigaBitplaneTest.pdb
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.csproj.AssemblyReference.cache
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.Form1.resources
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.Properties.Resources.resources
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.csproj.GenerateResource.cache
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.csproj.CoreCompileInputs.cache
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.exe
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.pdb
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\bin\Debug\AmigaBitplane.dll
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\bin\Debug\AmigaBitplane.pdb
+C:\Users\yossi\source\repos\AmigaBitplaneTest\AmigaBitplaneTest\obj\Debug\AmigaBitplaneTest.csproj.CopyComplete
